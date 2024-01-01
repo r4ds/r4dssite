@@ -1,3 +1,6 @@
+See [r4ds/r4ds_app](https://github.com/r4ds/r4ds_app] for current repo. 
+
+<!--
 # R4DS Online Learning Community Website
 
 This repository contains (or, at this moment, *will* contain) the main online presense for the R4DS Online Learning Community.
@@ -9,3 +12,4 @@ The goal of this refresh is to make the site do these jobs:
 - Make it easy for new learners to find help.
 - Allow learners to keep learning.
 - Recruit mentors.
+-->
